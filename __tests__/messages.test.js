@@ -92,3 +92,4 @@ describe("Test Message class", function () {
 afterAll(async function() {
   await db.end();
 });
+
